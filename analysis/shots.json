@@ -1,0 +1,362 @@
+[
+ {
+  "id": "01",
+  "from": 0,
+  "to": 55,
+  "name": "Intro: hills, 'We've all pressed this [Button]', window frame, cursor",
+  "entry": "fade-in words",
+  "exit": "accelerating push into Button",
+  "technique": "per-word exponential settle x=final+off*0.9^n; typed footer; frame ring inset; cursor track; camera scale keys",
+  "plates": "landscape/000-055"
+ },
+ {
+  "id": "02",
+  "from": 56,
+  "to": 98,
+  "name": "Close-up 'this [Button] befo..' + hover glow + click",
+  "entry": "hard cut with horizontal motion blur",
+  "exit": "hard cut",
+  "technique": "camera translate+scale keys; radial glow following fingertip; click squash 1->0.915->0.986",
+  "plates": "closeup/56-98"
+ },
+ {
+  "id": "03.01",
+  "from": 99,
+  "to": 113,
+  "name": "Apple Pay receipt",
+  "entry": "cut + pop 0.86->1",
+  "exit": "cut",
+  "technique": "group scale keys, cursor track",
+  "plates": null
+ },
+ {
+  "id": "03.02",
+  "from": 114,
+  "to": 123,
+  "name": "Buy GPT 5 card",
+  "entry": "cut",
+  "exit": "cut",
+  "technique": "sheen sweep, cursor flies out with blur",
+  "plates": null
+ },
+ {
+  "id": "03.03",
+  "from": 124,
+  "to": 133,
+  "name": "Try Grok + particles",
+  "entry": "cut",
+  "exit": "cut",
+  "technique": "seeded particle burst",
+  "plates": null
+ },
+ {
+  "id": "03.04",
+  "from": 134,
+  "to": 140,
+  "name": "Buy Claude (dark pricing page)",
+  "entry": "cut",
+  "exit": "cut",
+  "technique": "static layout",
+  "plates": null
+ },
+ {
+  "id": "03.05",
+  "from": 141,
+  "to": 147,
+  "name": "Upgrade This (Mojave)",
+  "entry": "cut",
+  "exit": "cut",
+  "technique": "plate + hero button",
+  "plates": "mojave/141-147"
+ },
+ {
+  "id": "03.06",
+  "from": 148,
+  "to": 153,
+  "name": "Upgrade That (grey photo)",
+  "entry": "cut",
+  "exit": "cut",
+  "technique": "plate + hero button",
+  "plates": "greyphoto/148-153"
+ },
+ {
+  "id": "03.07",
+  "from": 154,
+  "to": 159,
+  "name": "Get Gemini (stars)",
+  "entry": "cut",
+  "exit": "cut",
+  "technique": "gradient + twinkling stars",
+  "plates": null
+ },
+ {
+  "id": "03.08",
+  "from": 160,
+  "to": 165,
+  "name": "Try Perplexity (bands)",
+  "entry": "cut",
+  "exit": "cut",
+  "technique": "band height keys",
+  "plates": null
+ },
+ {
+  "id": "03.09",
+  "from": 166,
+  "to": 171,
+  "name": "Buy Copilot (ribbon)",
+  "entry": "cut",
+  "exit": "cut",
+  "technique": "two SVG strokes (behind/in front) drawn with dashoffset",
+  "plates": null
+ },
+ {
+  "id": "03.10",
+  "from": 172,
+  "to": 177,
+  "name": "Try Runway (sliding grid)",
+  "entry": "cut",
+  "exit": "cut",
+  "technique": "rows of rounded cells sliding at different speeds",
+  "plates": null
+ },
+ {
+  "id": "03.11",
+  "from": 178,
+  "to": 183,
+  "name": "Buy Kling 3.0 (glass + blob)",
+  "entry": "cut",
+  "exit": "cut",
+  "technique": "growing circle blob, text colour inverted inside via clip-path",
+  "plates": "kling/178-183"
+ },
+ {
+  "id": "03.12",
+  "from": 184,
+  "to": 189,
+  "name": "Luma AI (rings)",
+  "entry": "cut",
+  "exit": "cut",
+  "technique": "two outline rings growing",
+  "plates": null
+ },
+ {
+  "id": "03.13",
+  "from": 190,
+  "to": 195,
+  "name": "Get Sora",
+  "entry": "cut",
+  "exit": "cut",
+  "technique": "icon scale keys",
+  "plates": null
+ },
+ {
+  "id": "03.14",
+  "from": 196,
+  "to": 199,
+  "name": "GPT 5.5",
+  "entry": "cut",
+  "exit": "cut",
+  "technique": "icon scale keys + glow",
+  "plates": null
+ },
+ {
+  "id": "03.15",
+  "from": 200,
+  "to": 204,
+  "name": "Buy Claude (cream)",
+  "entry": "cut",
+  "exit": "cut",
+  "technique": "static",
+  "plates": null
+ },
+ {
+  "id": "03.16",
+  "from": 205,
+  "to": 210,
+  "name": "Upgrade This (brown grid)",
+  "entry": "cut",
+  "exit": "cut",
+  "technique": "sliding grid",
+  "plates": null
+ },
+ {
+  "id": "03.17",
+  "from": 211,
+  "to": 215,
+  "name": "Upgrade That (red grid)",
+  "entry": "cut",
+  "exit": "cut",
+  "technique": "vertical sliding grid",
+  "plates": null
+ },
+ {
+  "id": "03.18",
+  "from": 216,
+  "to": 221,
+  "name": "Banana",
+  "entry": "cut",
+  "exit": "cut",
+  "technique": "plate + button rect keys (slow zoom)",
+  "plates": "banana/216-221"
+ },
+ {
+  "id": "03.19",
+  "from": 222,
+  "to": 226,
+  "name": "Buy Claude (mauve page)",
+  "entry": "cut",
+  "exit": "cut",
+  "technique": "static",
+  "plates": null
+ },
+ {
+  "id": "04",
+  "from": 227,
+  "to": 249,
+  "name": "'But...' rising letters, desaturate, card closes",
+  "entry": "letters fly up from below",
+  "exit": "card window shrinks",
+  "technique": "per-glyph rise curve, drift, crop-window card with inner scale",
+  "plates": "landscape (frame f-232), typing/243-249"
+ },
+ {
+  "id": "05",
+  "from": 250,
+  "to": 295,
+  "name": "Typing 'But, what if one Button' with card-as-caret",
+  "entry": "card becomes caret",
+  "exit": "hard cut",
+  "technique": "measured pan curve, glyphs remapped to reference boxes, caret position keys",
+  "plates": "typing/250-295"
+ },
+ {
+  "id": "06",
+  "from": 296,
+  "to": 340,
+  "name": "'Life saver' between the hands, slow zoom-out",
+  "entry": "cut",
+  "exit": "cut",
+  "technique": "button rect per frame from flood fill; light sweep",
+  "plates": "creation/296-340"
+ },
+ {
+  "id": "07",
+  "from": 341,
+  "to": 351,
+  "name": "Style flashes (stained glass, photo, comic, pencil, oil, LEGO), Life saver -> Higgsfield",
+  "entry": "cuts of 1-2 frames",
+  "exit": "cut",
+  "technique": "per-frame button look table",
+  "plates": "creation/341-351"
+ },
+ {
+  "id": "08",
+  "from": 352,
+  "to": 381,
+  "name": "'Higgsfield' photo -> b/w -> dissolve to grey",
+  "entry": "cut",
+  "exit": "dissolve",
+  "technique": "button opacity fade, white overlay",
+  "plates": "creation/352-381"
+ },
+ {
+  "id": "09",
+  "from": 382,
+  "to": 452,
+  "name": "'No more endless ai subscriptions' + fire bubble + cursor",
+  "entry": "words blur-reveal",
+  "exit": "hard cut",
+  "technique": "per-word decay ratios, bubble size keys, cursor track",
+  "plates": null
+ },
+ {
+  "id": "10",
+  "from": 453,
+  "to": 509,
+  "name": "'No more unnecessary costs' on an arch over dark card table",
+  "entry": "cut",
+  "exit": "whip left + cut",
+  "technique": "per-glyph centre/rotation/size interpolated a->b with cubic progress",
+  "plates": "costs/453-509"
+ },
+ {
+  "id": "11",
+  "from": 510,
+  "to": 559,
+  "name": "'Pay once, And done (:' + brush swoosh",
+  "entry": "cursor flies in",
+  "exit": "zoom blur",
+  "technique": "swoosh revealed by clip-path tied to cursor, camera zoom keys",
+  "plates": null
+ },
+ {
+  "id": "12",
+  "from": 560,
+  "to": 579,
+  "name": "'Video' in a ring of thumbnails",
+  "entry": "zoom in",
+  "exit": "squash into player",
+  "technique": "title geometry keys over lifted collage plate",
+  "plates": "features/560-579"
+ },
+ {
+  "id": "13",
+  "from": 580,
+  "to": 600,
+  "name": "'Voice' + player (Adam / Select voice)",
+  "entry": "morph",
+  "exit": "zoom blur",
+  "technique": "squash & stretch keys, letters drop in",
+  "plates": null
+ },
+ {
+  "id": "14",
+  "from": 601,
+  "to": 616,
+  "name": "'Image' collage",
+  "entry": "3D fly-in",
+  "exit": "green flash",
+  "technique": "lifted plate (title kept in plate)",
+  "plates": "features/601-616"
+ },
+ {
+  "id": "15",
+  "from": 617,
+  "to": 645,
+  "name": "'Motion' title card with keyhole",
+  "entry": "whip",
+  "exit": "crossfade",
+  "technique": "title geometry keys over plate (617-621 untouched plate)",
+  "plates": "features/617-645"
+ },
+ {
+  "id": "16",
+  "from": 646,
+  "to": 690,
+  "name": "'Pure Creation'",
+  "entry": "crossfade",
+  "exit": "fade to grey",
+  "technique": "title keys + opacity",
+  "plates": "features/646-690"
+ },
+ {
+  "id": "17",
+  "from": 690,
+  "to": 760,
+  "name": "Line grows into the Higgsfield mark, 'All in one place.'",
+  "entry": "line grows",
+  "exit": "background darkens",
+  "technique": "mark rect keys, stroke-dashoffset squiggle, per-word boxes",
+  "plates": null
+ },
+ {
+  "id": "18",
+  "from": 760,
+  "to": 869,
+  "name": "Lockup 'Higgsfield / All in one place.' on black, fade out",
+  "entry": "colour inversion morph",
+  "exit": "fade to black",
+  "technique": "mark shrink keys, colour mix, wordmark blur-in, global fade",
+  "plates": null
+ }
+]

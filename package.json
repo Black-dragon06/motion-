@@ -1,0 +1,22 @@
+{
+  "name": "higgsfield-one-button-recreation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Code-driven 1:1 recreation of the Higgsfield 'One Button' motion video (HTML/JS timeline rendered frame-by-frame with Playwright + ffmpeg).",
+  "type": "module",
+  "scripts": {
+    "preview": "npx --yes http-server -c-1 -p 8080 . -o /composition/index.html",
+    "render": "node scripts/render.mjs",
+    "render:720": "node scripts/render.mjs --scale 1 --out out/higgsfield_one_button_720p.mp4",
+    "plates": "python3 scripts/extract_plates.py",
+    "frames": "make frames",
+    "qa": "make qa",
+    "score": "make score",
+    "compare": "make compare",
+    "example": "make example",
+    "check": "make check"
+  },
+  "devDependencies": {
+    "playwright": "^1.56.1"
+  }
+}

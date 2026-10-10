@@ -1,0 +1,22 @@
+# $ python3 tools/track_blob.py --from 99 --to 118 --box 790,120,1279,640 --thr 225
+# used in: composition/scenes/03-montage.js Apple Pay + GPT cursor track C
+99 bbox x 811-983 y 415-566  centre 877,476  px 7514
+100 bbox x 812-1053 y 417-581  centre 893,490  px 11254
+101 bbox x 811-1067 y 415-583  centre 896,491  px 12278
+102 bbox x 811-1068 y 413-587  centre 897,490  px 12765
+103 bbox x 813-1077 y 411-586  centre 900,488  px 12691
+104 bbox x 817-1078 y 409-583  centre 904,486  px 12359
+105 bbox x 823-1074 y 407-579  centre 909,483  px 11693
+106 bbox x 832-1059 y 403-570  centre 914,478  px 10927
+107 bbox x 841-1044 y 399-562  centre 922,473  px 10148
+108 bbox x 852-1051 y 392-554  centre 931,466  px 9463
+109 bbox x 865-1062 y 120-545  centre 943,455  px 8839
+110 bbox x 880-1035 y 372-535  centre 956,444  px 8016
+111 bbox x 899-1063 y 120-532  centre 975,427  px 7398
+112 bbox x 921-1087 y 120-532  centre 997,406  px 6472
+113 bbox x 951-1109 y 312-532  centre 1024,378  px 5186
+114 bbox x 792-1120 y 296-400  centre 1059,338  px 4066
+115 bbox x 791-1161 y 242-393  centre 1096,280  px 3213
+116 bbox x 790-1208 y 163-393  centre 1140,200  px 2936
+117 bbox x 790-1241 y 120-393  centre 1178,136  px 1440
+118 bbox x 790-878 y 318-393  centre 851,348  px 286

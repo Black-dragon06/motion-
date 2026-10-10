@@ -1,0 +1,437 @@
+# $ python3 tools/letterbox.py --from 0 --to 869 --step 2
+# used in: composition/main.js BAR keyframes (global letterbox)
+   0  top   0  bottom 719  (bar   0px /   0px)  left    0 right 1279
+   2  top   0  bottom 719  (bar   0px /   0px)  left    0 right 1279
+   4  top   0  bottom 719  (bar   0px /   0px)  left    0 right 1279
+   6  top   0  bottom 719  (bar   0px /   0px)  left    0 right 1279
+   8  top   0  bottom 719  (bar   0px /   0px)  left    0 right 1279
+  10  top   0  bottom 719  (bar   0px /   0px)  left    0 right 1279
+  12  top   0  bottom 719  (bar   0px /   0px)  left    0 right 1279
+  14  top   0  bottom 719  (bar   0px /   0px)  left    0 right 1279
+  16  top   0  bottom 719  (bar   0px /   0px)  left    0 right 1279
+  18  top   0  bottom 719  (bar   0px /   0px)  left    0 right 1279
+  20  top   0  bottom 719  (bar   0px /   0px)  left    0 right 1279
+  22  top   0  bottom 719  (bar   0px /   0px)  left    0 right 1279
+  24  top   0  bottom 719  (bar   0px /   0px)  left    0 right 1279
+  26  top   0  bottom 719  (bar   0px /   0px)  left    0 right 1279
+  28  top   0  bottom 719  (bar   0px /   0px)  left    0 right 1279
+  30  top   0  bottom 719  (bar   0px /   0px)  left    0 right 1279
+  32  top   0  bottom 719  (bar   0px /   0px)  left    0 right 1279
+  34  top   0  bottom 719  (bar   0px /   0px)  left    0 right 1279
+  36  top   0  bottom 719  (bar   0px /   0px)  left    0 right 1279
+  38  top   0  bottom 719  (bar   0px /   0px)  left    0 right 1279
+  40  top   0  bottom 719  (bar   0px /   0px)  left    0 right 1279
+  42  top   0  bottom 719  (bar   0px /   0px)  left    0 right 1279
+  44  top   0  bottom 719  (bar   0px /   0px)  left    0 right 1279
+  46  top   0  bottom 719  (bar   0px /   0px)  left    0 right 1279
+  48  top   1  bottom 718  (bar   1px /   1px)  left    0 right 1279
+  50  top   2  bottom 718  (bar   2px /   1px)  left    0 right 1279
+  52  top   3  bottom 716  (bar   3px /   3px)  left    0 right 1279
+  54  top   5  bottom 715  (bar   5px /   4px)  left    0 right 1279
+  56  top   7  bottom 712  (bar   7px /   7px)  left    0 right 1279
+  58  top  11  bottom 708  (bar  11px /  11px)  left    0 right 1279
+  60  top  18  bottom 701  (bar  18px /  18px)  left    0 right 1279
+  62  top  24  bottom 695  (bar  24px /  24px)  left    0 right 1279
+  64  top  27  bottom 692  (bar  27px /  27px)  left    0 right 1279
+  66  top  30  bottom 689  (bar  30px /  30px)  left    0 right 1279
+  68  top  31  bottom 688  (bar  31px /  31px)  left    0 right 1279
+  70  top  32  bottom 687  (bar  32px /  32px)  left    0 right 1279
+  72  top  33  bottom 686  (bar  33px /  33px)  left    0 right 1279
+  74  top  33  bottom 686  (bar  33px /  33px)  left    0 right 1279
+  76  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+  78  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+  80  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+  82  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+  84  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+  86  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+  88  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+  90  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+  92  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+  94  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+  96  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+  98  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 100  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 102  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 104  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 106  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 108  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 110  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 112  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 114  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 116  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 118  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 120  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 122  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 124  top 243  bottom 684  (bar 243px /  35px)  left    0 right  519
+ 126  top 243  bottom 684  (bar 243px /  35px)  left    0 right  575
+ 128  top 243  bottom 684  (bar 243px /  35px)  left    0 right  575
+ 130  top 243  bottom 684  (bar 243px /  35px)  left    0 right  578
+ 132  top 243  bottom 684  (bar 243px /  35px)  left    0 right  575
+ 134  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 136  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 138  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 140  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 142  top  70  bottom 579  (bar  70px / 140px)  left    0 right 1279
+ 144  top  70  bottom 583  (bar  70px / 136px)  left    0 right 1279
+ 146  top  70  bottom 583  (bar  70px / 136px)  left    0 right 1279
+ 148  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 150  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 152  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 154  top  34  bottom 641  (bar  34px /  78px)  left    0 right 1279
+ 156  top  34  bottom 641  (bar  34px /  78px)  left    0 right 1279
+ 158  top  34  bottom 641  (bar  34px /  78px)  left    0 right 1279
+ 160  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 162  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 164  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 166  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 168  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 170  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 172  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 174  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 176  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 178  top 152  bottom 477  (bar 152px / 242px)  left  398 right  798
+ 180  top 155  bottom 477  (bar 155px / 242px)  left  398 right 1121
+ 182  top 156  bottom 477  (bar 156px / 242px)  left  402 right  949
+ 184  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 186  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 188  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 190  top  35  bottom 685  (bar  35px /  34px)  left    0 right 1279
+ 192  top  35  bottom 685  (bar  35px /  34px)  left    0 right 1279
+ 194  top  35  bottom 685  (bar  35px /  34px)  left    0 right 1279
+ 196  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 198  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 200  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 202  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 204  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 206  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 208  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 210  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 212  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 214  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 216  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 218  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 220  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 222  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 224  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 226  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 228  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 230  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 232  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 234  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 236  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 238  top  35  bottom 685  (bar  35px /  34px)  left    1 right 1278
+ 240  top  36  bottom 684  (bar  36px /  35px)  left    6 right 1273
+ 242  top  38  bottom 682  (bar  38px /  37px)  left   17 right 1262
+ 244  top  41  bottom 679  (bar  41px /  40px)  left   37 right 1241
+ 246  top  45  bottom 674  (bar  45px /  45px)  left    0 right 1279
+ 248  top  52  bottom 668  (bar  52px /  51px)  left    0 right 1279
+ 250  top  62  bottom 657  (bar  62px /  62px)  left    0 right 1279
+ 252  top  81  bottom 638  (bar  81px /  81px)  left    0 right 1279
+ 254  top 104  bottom 615  (bar 104px / 104px)  left    0 right 1279
+ 256  top 118  bottom 601  (bar 118px / 118px)  left    0 right 1279
+ 258  top 127  bottom 592  (bar 127px / 127px)  left    0 right 1279
+ 260  top 131  bottom 588  (bar 131px / 131px)  left    0 right 1279
+ 262  top 135  bottom 584  (bar 135px / 135px)  left    0 right 1279
+ 264  top 137  bottom 582  (bar 137px / 137px)  left    0 right 1279
+ 266  top 138  bottom 581  (bar 138px / 138px)  left    0 right 1279
+ 268  top 138  bottom 581  (bar 138px / 138px)  left    0 right 1279
+ 270  top 139  bottom 580  (bar 139px / 139px)  left    0 right 1279
+ 272  top 139  bottom 580  (bar 139px / 139px)  left    0 right 1279
+ 274  top 139  bottom 580  (bar 139px / 139px)  left    0 right 1279
+ 276  top 139  bottom 580  (bar 139px / 139px)  left    0 right 1279
+ 278  top 139  bottom 580  (bar 139px / 139px)  left    0 right 1279
+ 280  top 139  bottom 580  (bar 139px / 139px)  left    0 right 1279
+ 282  top 139  bottom 580  (bar 139px / 139px)  left    0 right 1279
+ 284  top 138  bottom 581  (bar 138px / 138px)  left    0 right 1279
+ 286  top 137  bottom 582  (bar 137px / 137px)  left    0 right 1279
+ 288  top 134  bottom 585  (bar 134px / 134px)  left    0 right 1279
+ 290  top 131  bottom 588  (bar 131px / 131px)  left    0 right 1279
+ 292  top 124  bottom 595  (bar 124px / 124px)  left    9 right 1279
+ 294  top 110  bottom 609  (bar 110px / 110px)  left    0 right 1279
+ 296  top  76  bottom 643  (bar  76px /  76px)  left    0 right 1279
+ 298  top  52  bottom 667  (bar  52px /  52px)  left    0 right 1279
+ 300  top  42  bottom 677  (bar  42px /  42px)  left    0 right 1279
+ 302  top  36  bottom 683  (bar  36px /  36px)  left    0 right 1279
+ 304  top  33  bottom 686  (bar  33px /  33px)  left    0 right 1279
+ 306  top  30  bottom 689  (bar  30px /  30px)  left    0 right 1279
+ 308  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 310  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 312  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 314  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 316  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 318  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 320  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 322  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 324  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 326  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 328  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 330  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 332  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 334  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 336  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 338  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 340  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 342  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 344  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 346  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 348  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 350  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 352  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 354  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 356  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 358  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 360  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 362  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 364  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 366  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 368  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 370  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 372  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 374  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 376  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 378  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 380  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 382  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 384  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 386  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 388  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 390  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 392  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 394  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 396  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 398  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 400  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 402  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 404  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 406  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 408  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 410  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 412  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 414  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 416  top  30  bottom 689  (bar  30px /  30px)  left    0 right 1279
+ 418  top  30  bottom 689  (bar  30px /  30px)  left    0 right 1279
+ 420  top  30  bottom 689  (bar  30px /  30px)  left    0 right 1279
+ 422  top  30  bottom 689  (bar  30px /  30px)  left    0 right 1279
+ 424  top  31  bottom 688  (bar  31px /  31px)  left    0 right 1279
+ 426  top  31  bottom 688  (bar  31px /  31px)  left    0 right 1279
+ 428  top  32  bottom 687  (bar  32px /  32px)  left    0 right 1279
+ 430  top  32  bottom 687  (bar  32px /  32px)  left    0 right 1279
+ 432  top  33  bottom 686  (bar  33px /  33px)  left    0 right 1279
+ 434  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 436  top  35  bottom 684  (bar  35px /  35px)  left    0 right 1279
+ 438  top  36  bottom 683  (bar  36px /  36px)  left    0 right 1279
+ 440  top  37  bottom 682  (bar  37px /  37px)  left    0 right 1279
+ 442  top  38  bottom 681  (bar  38px /  38px)  left    0 right 1279
+ 444  top  40  bottom 679  (bar  40px /  40px)  left    0 right 1279
+ 446  top  42  bottom 677  (bar  42px /  42px)  left    0 right 1279
+ 448  top  45  bottom 674  (bar  45px /  45px)  left    0 right 1279
+ 450  top  49  bottom 670  (bar  49px /  49px)  left    0 right 1279
+ 452  top  55  bottom 664  (bar  55px /  55px)  left    0 right 1279
+ 454  no picture (black frame)
+ 456  no picture (black frame)
+ 458  no picture (black frame)
+ 460  no picture (black frame)
+ 462  no picture (black frame)
+ 464  no picture (black frame)
+ 466  no picture (black frame)
+ 468  no picture (black frame)
+ 470  no picture (black frame)
+ 472  no picture (black frame)
+ 474  no picture (black frame)
+ 476  no picture (black frame)
+ 478  no picture (black frame)
+ 480  no picture (black frame)
+ 482  no picture (black frame)
+ 484  no picture (black frame)
+ 486  no picture (black frame)
+ 488  no picture (black frame)
+ 490  no picture (black frame)
+ 492  no picture (black frame)
+ 494  no picture (black frame)
+ 496  no picture (black frame)
+ 498  no picture (black frame)
+ 500  no picture (black frame)
+ 502  no picture (black frame)
+ 504  no picture (black frame)
+ 506  no picture (black frame)
+ 508  no picture (black frame)
+ 510  top  82  bottom 637  (bar  82px /  82px)  left    0 right 1279
+ 512  top  74  bottom 645  (bar  74px /  74px)  left    0 right 1279
+ 514  top  68  bottom 651  (bar  68px /  68px)  left    0 right 1279
+ 516  top  64  bottom 655  (bar  64px /  64px)  left    0 right 1279
+ 518  top  60  bottom 659  (bar  60px /  60px)  left    0 right 1279
+ 520  top  56  bottom 662  (bar  56px /  57px)  left    0 right 1279
+ 522  top  54  bottom 665  (bar  54px /  54px)  left    0 right 1279
+ 524  top  51  bottom 668  (bar  51px /  51px)  left    0 right 1279
+ 526  top  49  bottom 670  (bar  49px /  49px)  left    0 right 1279
+ 528  top  46  bottom 673  (bar  46px /  46px)  left    0 right 1279
+ 530  top  45  bottom 674  (bar  45px /  45px)  left    0 right 1279
+ 532  top  43  bottom 676  (bar  43px /  43px)  left    0 right 1279
+ 534  top  41  bottom 678  (bar  41px /  41px)  left    0 right 1279
+ 536  top  40  bottom 679  (bar  40px /  40px)  left    0 right 1279
+ 538  top  39  bottom 680  (bar  39px /  39px)  left    0 right 1279
+ 540  top  37  bottom 682  (bar  37px /  37px)  left    0 right 1279
+ 542  top  36  bottom 683  (bar  36px /  36px)  left    0 right 1279
+ 544  top  35  bottom 684  (bar  35px /  35px)  left    0 right 1279
+ 546  top  34  bottom 685  (bar  34px /  34px)  left    0 right 1279
+ 548  top  33  bottom 686  (bar  33px /  33px)  left    0 right 1279
+ 550  top  33  bottom 686  (bar  33px /  33px)  left    0 right 1279
+ 552  top  32  bottom 687  (bar  32px /  32px)  left    0 right 1279
+ 554  top  31  bottom 688  (bar  31px /  31px)  left    0 right 1279
+ 556  top  31  bottom 688  (bar  31px /  31px)  left    0 right 1279
+ 558  top  30  bottom 689  (bar  30px /  30px)  left    0 right 1279
+ 560  top  30  bottom 689  (bar  30px /  30px)  left    0 right 1279
+ 562  top  30  bottom 689  (bar  30px /  30px)  left    0 right 1279
+ 564  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 566  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 568  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 570  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 572  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 574  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 576  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 578  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 580  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 582  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 584  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 586  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 588  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 590  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 592  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 594  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 596  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 598  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 600  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 602  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 604  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 606  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 608  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 610  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 612  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 614  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 616  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 618  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 620  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 622  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 624  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 626  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 628  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 630  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 632  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 634  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 636  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 638  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 640  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 642  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 644  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 646  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 648  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 650  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 652  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 654  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 656  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 658  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 660  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 662  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 664  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 666  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 668  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 670  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 672  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 674  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 676  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 678  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 680  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 682  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 684  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 686  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 688  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 690  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 692  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 694  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 696  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 698  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 700  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 702  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 704  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 706  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 708  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 710  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 712  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 714  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 716  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 718  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 720  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 722  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 724  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 726  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 728  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 730  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 732  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 734  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 736  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 738  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 740  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 742  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 744  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 746  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 748  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 750  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 752  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 754  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 756  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 758  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 760  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 762  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 764  top  29  bottom 690  (bar  29px /  29px)  left    0 right 1279
+ 766  top  30  bottom 689  (bar  30px /  30px)  left    0 right 1279
+ 768  no picture (black frame)
+ 770  no picture (black frame)
+ 772  no picture (black frame)
+ 774  no picture (black frame)
+ 776  no picture (black frame)
+ 778  no picture (black frame)
+ 780  no picture (black frame)
+ 782  no picture (black frame)
+ 784  no picture (black frame)
+ 786  no picture (black frame)
+ 788  no picture (black frame)
+ 790  no picture (black frame)
+ 792  no picture (black frame)
+ 794  no picture (black frame)
+ 796  no picture (black frame)
+ 798  no picture (black frame)
+ 800  no picture (black frame)
+ 802  no picture (black frame)
+ 804  no picture (black frame)
+ 806  no picture (black frame)
+ 808  no picture (black frame)
+ 810  no picture (black frame)
+ 812  no picture (black frame)
+ 814  no picture (black frame)
+ 816  no picture (black frame)
+ 818  no picture (black frame)
+ 820  no picture (black frame)
+ 822  no picture (black frame)
+ 824  no picture (black frame)
+ 826  no picture (black frame)
+ 828  no picture (black frame)
+ 830  no picture (black frame)
+ 832  no picture (black frame)
+ 834  no picture (black frame)
+ 836  no picture (black frame)
+ 838  no picture (black frame)
+ 840  no picture (black frame)
+ 842  no picture (black frame)
+ 844  no picture (black frame)
+ 846  no picture (black frame)
+ 848  no picture (black frame)
+ 850  no picture (black frame)
+ 852  no picture (black frame)
+ 854  no picture (black frame)
+ 856  no picture (black frame)
+ 858  no picture (black frame)
+ 860  no picture (black frame)
+ 862  no picture (black frame)
+ 864  no picture (black frame)
+ 866  no picture (black frame)
+ 868  no picture (black frame)

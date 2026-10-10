@@ -1,0 +1,37 @@
+# $ python3 tools/track_blob.py --from 418 --to 452 --box 0,410,1000,640 --mode dark --thr 120
+# used in: composition/scenes/09-nomore.js CUR
+418 -
+419 -
+420 -
+421 -
+422 -
+423 bbox x 104-139 y 543-575  centre 109,552  px 20
+424 bbox x 142-191 y 562-606  centre 171,569  px 99
+425 bbox x 182-230 y 580-624  centre 213,587  px 153
+426 bbox x 213-263 y 578-634  centre 240,598  px 202
+427 bbox x 241-290 y 585-639  centre 269,603  px 179
+428 bbox x 263-313 y 589-633  centre 288,606  px 160
+429 bbox x 283-333 y 592-636  centre 307,608  px 164
+430 bbox x 301-351 y 593-638  centre 325,610  px 175
+431 bbox x 316-367 y 593-638  centre 340,611  px 171
+432 bbox x 330-381 y 593-639  centre 353,611  px 196
+433 bbox x 343-395 y 592-639  centre 366,612  px 243
+434 bbox x 355-407 y 591-639  centre 377,613  px 285
+435 bbox x 365-419 y 589-639  centre 385,611  px 394
+436 bbox x 375-429 y 587-639  centre 401,612  px 551
+437 bbox x 385-439 y 585-639  centre 411,611  px 570
+438 bbox x 394-448 y 582-639  centre 421,611  px 665
+439 bbox x 403-458 y 579-637  centre 430,608  px 698
+440 bbox x 412-466 y 575-633  centre 439,606  px 717
+441 bbox x 421-475 y 571-629  centre 448,601  px 687
+442 bbox x 429-484 y 567-625  centre 456,598  px 701
+443 bbox x 438-492 y 561-620  centre 465,590  px 659
+444 bbox x 447-501 y 555-614  centre 474,586  px 668
+445 bbox x 456-510 y 548-608  centre 488,578  px 545
+446 bbox x 465-520 y 539-600  centre 498,570  px 496
+447 bbox x 475-530 y 530-590  centre 508,563  px 431
+448 bbox x 485-540 y 518-579  centre 518,553  px 404
+449 bbox x 496-551 y 503-566  centre 530,540  px 387
+450 bbox x 508-563 y 486-549  centre 541,524  px 349
+451 bbox x 520-575 y 464-527  centre 554,502  px 322
+452 bbox x 532-588 y 434-500  centre 563,473  px 329

@@ -1,0 +1,15 @@
+# $ python3 tools/components.py 497 --box 0,110,1230,560 --mask (r>140)&(r-g>80)
+# used in: composition/data/costs.json glyph 'b' poses (red letters)
+12 components (cx, cy, w, h, px):
+  centre  484, 321  bbox x 465-507 y 297-343  w  42 h  46  px 1024
+  centre  517, 252  bbox x 492-543 y 226-283  w  51 h  57  px 1837
+  centre  573, 247  bbox x 554-592 y 228-270  w  38 h  42  px 1034
+  centre  619, 244  bbox x 601-640 y 223-266  w  39 h  43  px 1071
+  centre  651, 178  bbox x 623-685 y 143-213  w  62 h  70  px 2333
+  centre  700, 230  bbox x 681-721 y 210-252  w  40 h  42  px 1021
+  centre  731, 273  bbox x 711-752 y 252-295  w  41 h  43  px 959
+  centre  768, 312  bbox x 751-785 y 288-329  w  34 h  41  px 703
+  centre  786, 300  bbox x 776-792 y 294-307  w  16 h  13  px 119
+  centre  817, 352  bbox x 786-845 y 321-384  w  59 h  63  px 2081
+  centre  890, 361  bbox x 874-914 y 339-388  w  40 h  49  px 832
+  centre  940, 372  bbox x 916-968 y 340-407  w  52 h  67  px 1539

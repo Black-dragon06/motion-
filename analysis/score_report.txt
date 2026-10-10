@@ -1,0 +1,17 @@
+frames 0-869: mean 4.23  median 3.39
+  01 intro                        0-  55  mean   5.81  worst 55 (6.8)
+  02 close-up                    56-  98  mean   9.56  worst 56 (14.9)
+  03 button montage              99- 226  mean   4.96  worst 124 (12.5)
+  04 But...                     227- 249  mean  15.75  worst 245 (23.6)
+  05 typing                     250- 295  mean   6.51  worst 250 (14.6)
+  06-07 Life saver + styles     296- 351  mean   3.94  worst 298 (5.6)
+  08 Higgsfield                 352- 381  mean   1.66  worst 353 (2.4)
+  09 No more endless            382- 452  mean   3.64  worst 452 (9.5)
+  10 unnecessary costs          453- 509  mean   4.91  worst 506 (6.6)
+  11 Pay once                   510- 559  mean   4.00  worst 555 (6.5)
+  12-13 Video / Voice           560- 600  mean   2.05  worst 586 (3.6)
+  14-15 Image / Motion          601- 645  mean   3.16  worst 617 (9.3)
+  16 Pure Creation              646- 690  mean   1.87  worst 652 (2.9)
+  17 logo build                 691- 759  mean   1.70  worst 693 (2.2)
+  18 lockup + fade              760- 869  mean   1.91  worst 765 (4.6)
+wrote analysis/scores.json
