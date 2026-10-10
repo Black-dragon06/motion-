@@ -1,0 +1,11 @@
+# $ python3 tools/components.py 453 --box 0,110,1230,560 --mask (r>140)&(r-g>80)
+# used in: composition/data/costs.json glyph 'a' poses (red letters)
+8 components (cx, cy, w, h, px):
+  centre  394, 349  bbox x 368-419 y 320-372  w  51 h  52  px 1350
+  centre  422, 277  bbox x 393-451 y 248-310  w  58 h  62  px 2298
+  centre  500, 274  bbox x 478-524 y 251-302  w  46 h  51  px 1507
+  centre  573, 260  bbox x 534-616 y 220-295  w  82 h  75  px 3407
+  centre  675, 281  bbox x 634-718 y 237-328  w  84 h  91  px 2937
+  centre  769, 338  bbox x 720-810 y 301-377  w  90 h  76  px 3645
+  centre  855, 336  bbox x 841-879 y 312-368  w  38 h  56  px 1037
+  centre  919, 357  bbox x 896-951 y 322-398  w  55 h  76  px 1977

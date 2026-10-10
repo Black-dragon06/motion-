@@ -1,0 +1,17 @@
+[
+  {"name": "01 intro", "from": 0, "to": 55, "scene": "composition/scenes/01-intro.js"},
+  {"name": "02 close-up", "from": 56, "to": 98, "scene": "composition/scenes/02-closeup.js"},
+  {"name": "03 button montage", "from": 99, "to": 226, "scene": "composition/scenes/03-montage.js"},
+  {"name": "04 But...", "from": 227, "to": 249, "scene": "composition/scenes/04-but.js"},
+  {"name": "05 typing", "from": 250, "to": 295, "scene": "composition/scenes/04-but.js"},
+  {"name": "06-07 Life saver + styles", "from": 296, "to": 351, "scene": "composition/scenes/06-lifesaver.js"},
+  {"name": "08 Higgsfield", "from": 352, "to": 381, "scene": "composition/scenes/06-lifesaver.js"},
+  {"name": "09 No more endless", "from": 382, "to": 452, "scene": "composition/scenes/09-nomore.js"},
+  {"name": "10 unnecessary costs", "from": 453, "to": 509, "scene": "composition/scenes/10-costs.js"},
+  {"name": "11 Pay once", "from": 510, "to": 559, "scene": "composition/scenes/11-payonce.js"},
+  {"name": "12-13 Video / Voice", "from": 560, "to": 600, "scene": "composition/scenes/12-features.js"},
+  {"name": "14-15 Image / Motion", "from": 601, "to": 645, "scene": "composition/scenes/12-features.js"},
+  {"name": "16 Pure Creation", "from": 646, "to": 690, "scene": "composition/scenes/12-features.js"},
+  {"name": "17 logo build", "from": 691, "to": 759, "scene": "composition/scenes/17-logo.js"},
+  {"name": "18 lockup + fade", "from": 760, "to": 869, "scene": "composition/scenes/17-logo.js"}
+]

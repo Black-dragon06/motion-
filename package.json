@@ -8,7 +8,13 @@
     "preview": "npx --yes http-server -c-1 -p 8080 . -o /composition/index.html",
     "render": "node scripts/render.mjs",
     "render:720": "node scripts/render.mjs --scale 1 --out out/higgsfield_one_button_720p.mp4",
-    "plates": "python3 scripts/extract_plates.py"
+    "plates": "python3 scripts/extract_plates.py",
+    "frames": "make frames",
+    "qa": "make qa",
+    "score": "make score",
+    "compare": "make compare",
+    "example": "make example",
+    "check": "make check"
   },
   "devDependencies": {
     "playwright": "^1.56.1"

@@ -1,0 +1,38 @@
+# $ python3 tools/track_blob.py --from 20 --to 55 --box 20,410,1260,684 --thr 205
+# used in: composition/scenes/01-intro.js CUR (glove centre per frame)
+20 -
+21 -
+22 bbox x 175-204 y 672-683  centre 193,681  px 86
+23 bbox x 180-207 y 657-683  centre 193,669  px 326
+24 bbox x 186-211 y 638-660  centre 197,647  px 285
+25 bbox x 190-215 y 612-634  centre 201,622  px 265
+26 bbox x 196-222 y 583-606  centre 207,594  px 257
+27 bbox x 204-230 y 556-579  centre 215,566  px 264
+28 bbox x 213-239 y 525-552  centre 224,539  px 270
+29 bbox x 221-248 y 498-531  centre 233,517  px 323
+30 bbox x 230-258 y 478-513  centre 242,498  px 353
+31 bbox x 235-267 y 462-499  centre 250,483  px 400
+32 bbox x 244-276 y 449-487  centre 260,471  px 415
+33 bbox x 252-286 y 440-478  centre 268,462  px 446
+34 bbox x 260-295 y 433-472  centre 276,455  px 453
+35 bbox x 269-303 y 427-467  centre 284,451  px 475
+36 bbox x 278-312 y 424-464  centre 293,447  px 472
+37 bbox x 287-320 y 422-462  centre 300,446  px 445
+38 bbox x 296-329 y 422-463  centre 309,446  px 442
+39 bbox x 305-338 y 424-463  centre 318,446  px 425
+40 bbox x 314-347 y 425-465  centre 327,448  px 414
+41 bbox x 325-357 y 429-468  centre 338,451  px 394
+42 bbox x 336-368 y 433-471  centre 348,455  px 370
+43 bbox x 348-380 y 441-474  centre 361,459  px 328
+44 bbox x 361-393 y 453-479  centre 374,463  px 303
+45 bbox x 377-408 y 459-483  centre 390,468  px 285
+46 bbox x 397-425 y 464-486  centre 408,472  px 260
+47 bbox x 416-444 y 468-490  centre 427,475  px 252
+48 bbox x 438-465 y 471-492  centre 449,477  px 235
+49 bbox x 462-489 y 472-494  centre 473,479  px 248
+50 bbox x 489-515 y 472-494  centre 500,478  px 225
+51 bbox x 516-542 y 470-492  centre 526,476  px 228
+52 bbox x 542-569 y 467-489  centre 553,474  px 247
+53 bbox x 566-595 y 462-485  centre 578,470  px 259
+54 bbox x 587-617 y 458-482  centre 599,466  px 290
+55 bbox x 599-636 y 439-482  centre 614,464  px 496

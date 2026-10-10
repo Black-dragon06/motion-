@@ -3,6 +3,7 @@
 //   node scripts/render.mjs                         -> out/higgsfield_one_button.mp4 (1920x1080 + audio)
 //   node scripts/render.mjs --scale 1 --out out/x.mp4
 //   node scripts/render.mjs --from 0 --to 120 --frames out/frames   (dump JPGs for QA)
+//   node scripts/render.mjs --page examples/minimal/index.html --audio none --scale 1 --out out/example.mp4
 import http from 'node:http';
 import fs from 'node:fs';
 import path from 'node:path';
@@ -20,8 +21,10 @@ const from = Number(args.from ?? 0);
 const toArg = args.to != null ? Number(args.to) : null;
 const framesDir = args.frames ? path.resolve(args.frames) : null;
 const outFile = path.resolve(args.out ?? path.join(ROOT, 'out', 'higgsfield_one_button.mp4'));
-const withAudio = !args['no-audio'] && !framesDir && from === 0 && toArg == null;
+const withAudio = !args['no-audio'] && args.audio !== 'none' && !framesDir && from === 0 && toArg == null;
 const list = args.list ? String(args.list).split(',').map(Number) : null;
+const pageUrl = args.page ? '/' + String(args.page).replace(/^\//, '') : '/composition/index.html';
+const audioArg = args.audio ?? path.join(ROOT, 'assets/audio/soundtrack.m4a');
 
 function loadPlaywright() {
   const require = createRequire(import.meta.url);
@@ -48,7 +51,7 @@ const browser = await chromium.launch({ args: ['--disable-gpu-vsync', '--font-re
 const page = await browser.newPage({ viewport: { width: 1280, height: 720 }, deviceScaleFactor: scale });
 page.on('console', (m) => { if (m.type() === 'error') console.error('[page]', m.text()); });
 page.on('pageerror', (e) => console.error('[page error]', e.message));
-await page.goto(`http://127.0.0.1:${port}/composition/index.html?render`);
+await page.goto(`http://127.0.0.1:${port}${pageUrl}?render`);
 await page.evaluate(() => window.__ready);
 const total = await page.evaluate(() => window.__total);
 const to = Math.min(toArg ?? total - 1, total - 1);
@@ -59,7 +62,7 @@ if (framesDir) fs.mkdirSync(framesDir, { recursive: true });
 else {
   fs.mkdirSync(path.dirname(outFile), { recursive: true });
   const a = ['-y', '-loglevel', 'error', '-f', 'image2pipe', '-framerate', '30', '-c:v', 'png', '-i', '-'];
-  if (withAudio) a.push('-i', path.join(ROOT, 'assets/audio/soundtrack.m4a'), '-map', '0:v', '-map', '1:a', '-c:a', 'copy', '-shortest');
+  if (withAudio) a.push('-i', path.resolve(audioArg), '-map', '0:v', '-map', '1:a', '-c:a', 'copy', '-shortest');
   a.push('-c:v', 'libx264', '-preset', 'slow', '-crf', '14', '-pix_fmt', 'yuv420p',
     '-color_primaries', 'bt709', '-color_trc', 'bt709', '-colorspace', 'bt709', '-movflags', '+faststart', outFile);
   ff = spawn('ffmpeg', a, { stdio: ['pipe', 'inherit', 'inherit'] });

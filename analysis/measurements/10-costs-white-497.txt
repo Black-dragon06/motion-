@@ -1,0 +1,25 @@
+# $ python3 tools/components.py 497 --box 0,110,1230,560 --mask (r>120)&(g>120)&(b>120)
+# used in: composition/data/costs.json glyph 'b' poses (white letters + cursor)
+22 components (cx, cy, w, h, px):
+  centre    8, 197  bbox x 0-18 y 186-212  w  18 h  26  px 148
+  centre   29, 176  bbox x 25-33 y 169-187  w   8 h  18  px 70
+  centre   79, 127  bbox x 75-85 y 118-137  w  10 h  19  px 62
+  centre  137, 454  bbox x 78-194 y 397-512  w 116 h 115  px 3491
+  centre  201, 395  bbox x 164-238 y 360-431  w  74 h  71  px 2458
+  centre  320, 316  bbox x 295-349 y 294-346  w  54 h  52  px 891
+  centre  360, 295  bbox x 344-377 y 277-314  w  33 h  37  px 632
+  centre  381, 280  bbox x 372-391 y 261-300  w  19 h  39  px 304
+  centre  406, 268  bbox x 391-424 y 250-286  w  33 h  36  px 664
+  centre  783, 263  bbox x 757-817 y 233-290  w  60 h  57  px 1880
+  centre  971, 373  bbox x 960-984 y 367-379  w  24 h  12  px 214
+  centre  980, 342  bbox x 962-995 y 333-359  w  33 h  26  px 362
+  centre 1011, 376  bbox x 991-1032 y 354-400  w  41 h  46  px 940
+  centre 1033, 408  bbox x 1028-1042 y 397-417  w  14 h  20  px 144
+  centre 1049, 396  bbox x 1039-1059 y 374-420  w  20 h  46  px 428
+  centre 1063, 385  bbox x 1055-1068 y 376-396  w  13 h  20  px 135
+  centre 1077, 406  bbox x 1065-1091 y 381-435  w  26 h  54  px 466
+  centre 1088, 437  bbox x 1085-1092 y 430-445  w   7 h  15  px 81
+  centre 1105, 428  bbox x 1095-1115 y 406-450  w  20 h  44  px 351
+  centre 1120, 417  bbox x 1118-1124 y 410-426  w   6 h  16  px 78
+  centre 1141, 116  bbox x 1134-1151 y 110-124  w  17 h  14  px 151
+  centre 1177, 131  bbox x 1168-1184 y 123-141  w  16 h  18  px 114

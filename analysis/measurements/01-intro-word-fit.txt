@@ -1,0 +1,11 @@
+# $ python3 tools/fit_easing.py 10:359 11:349 12:343 13:336 14:330 15:326 16:321 17:318 18:315 19:312 20:309 22:304 26:297 30:291 40:284 47:283
+# used in: composition/scenes/01-intro.js: x = final + off * 0.9^(f - appear)
+model fits, best first (RMSE in the units of your values):
+  rmse   0.87   exp   r=0.901  target=281.7  start_offset=75.5  (half-life 6.6 frames)
+               const x = 281.7 + 75.5 * Math.pow(0.901, f - 10);
+  rmse   2.26   pow   p=3.61  from 359.0 @ 10 to 283.0 @ 47
+               const t = clamp((f - 10) / 37); const x = 359.0 + -76.0 * (1 - Math.pow(1 - t, 3.61));
+  rmse   7.57   pin   p=0.50  from 359.0 @ 10 to 283.0 @ 47
+               const t = clamp((f - 10) / 37); const x = 359.0 + -76.0 * (Math.pow(t, 0.50));
+  rmse   9.93   lin   slope=-1.92/frame
+               const x = 357.0 + -1.923 * f;

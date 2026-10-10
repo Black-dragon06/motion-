@@ -1,0 +1,45 @@
+# $ python3 tools/track_blob.py --from 56 --to 98 --box 0,418,1280,650 --thr 200
+# used in: composition/scenes/02-closeup.js CUR (glove bottom-right corner)
+56 -
+57 -
+58 -
+59 -
+60 -
+61 bbox x 386-391 y 645-649  centre 388,647  px 22
+62 bbox x 418-427 y 629-649  centre 422,640  px 154
+63 bbox x 451-487 y 613-649  centre 456,633  px 296
+64 bbox x 482-572 y 596-649  centre 495,637  px 781
+65 bbox x 484-604 y 580-649  centre 549,638  px 2248
+66 bbox x 514-634 y 565-649  centre 577,627  px 3417
+67 bbox x 542-663 y 550-649  centre 602,616  px 4271
+68 bbox x 569-690 y 537-649  centre 628,605  px 4973
+69 bbox x 592-715 y 524-649  centre 655,596  px 5914
+70 bbox x 614-738 y 511-644  centre 678,584  px 6290
+71 bbox x 634-759 y 500-633  centre 699,573  px 6503
+72 bbox x 653-778 y 490-623  centre 718,562  px 6672
+73 bbox x 670-795 y 481-613  centre 735,552  px 6871
+74 bbox x 685-811 y 472-604  centre 751,543  px 7061
+75 bbox x 699-825 y 464-595  centre 765,534  px 7194
+76 bbox x 711-838 y 457-587  centre 778,527  px 7331
+77 bbox x 723-850 y 450-580  centre 790,519  px 7538
+78 bbox x 733-861 y 445-574  centre 801,513  px 7632
+79 bbox x 742-870 y 440-568  centre 810,507  px 7738
+80 bbox x 750-878 y 435-562  centre 819,501  px 7847
+81 bbox x 758-886 y 431-557  centre 827,496  px 7981
+82 bbox x 764-892 y 428-553  centre 834,492  px 8076
+83 bbox x 770-898 y 425-549  centre 840,488  px 8163
+84 bbox x 775-903 y 423-545  centre 845,485  px 8236
+85 bbox x 779-907 y 420-542  centre 849,481  px 8321
+86 bbox x 782-911 y 418-540  centre 853,479  px 8379
+87 bbox x 785-913 y 418-538  centre 855,477  px 8386
+88 bbox x 787-916 y 418-536  centre 858,476  px 8419
+89 bbox x 789-917 y 418-535  centre 860,475  px 8384
+90 bbox x 790-918 y 418-534  centre 861,474  px 8429
+91 bbox x 790-919 y 418-534  centre 862,473  px 8406
+92 bbox x 791-918 y 418-531  centre 861,472  px 8179
+93 bbox x 790-911 y 418-523  centre 857,467  px 7268
+94 bbox x 787-903 y 418-513  centre 851,461  px 6407
+95 bbox x 784-895 y 418-503  centre 845,456  px 5561
+96 bbox x 782-888 y 418-494  centre 841,451  px 4749
+97 bbox x 785-888 y 418-491  centre 839,450  px 4027
+98 bbox x 234-1169 y 418-514  centre 860,460  px 5619

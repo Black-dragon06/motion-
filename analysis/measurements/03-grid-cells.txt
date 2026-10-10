@@ -1,0 +1,16 @@
+# $ bash -c for n in 172 174 177 205 208 211 215; do echo "== $n"; python3 tools/segments.py --from $n --box 0,95,1280,105 --mode notcolor --color "#2a2a28" --tol 25 --gap 3 | head -1; done
+# used in: composition/scenes/03-montage.js hgrid() rows (Runway/brown) and vgrid() columns (red)
+== 172
+172 cols [(0, 268), (281, 951), (965, 1279)]  rows [(95, 104)]
+== 174
+174 cols [(0, 252), (266, 936), (950, 1279)]  rows [(95, 104)]
+== 177
+177 cols [(0, 229), (243, 913), (927, 1279)]  rows [(95, 104)]
+== 205
+205 cols [(0, 1279)]  rows [(95, 104)]
+== 208
+208 cols [(0, 1279)]  rows [(95, 104)]
+== 211
+211 cols [(0, 1279)]  rows [(95, 104)]
+== 215
+215 cols [(0, 1279)]  rows [(95, 104)]

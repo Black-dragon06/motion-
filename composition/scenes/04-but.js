@@ -32,7 +32,6 @@ const CARET = [[262, 794], [263, 807], [264, 816], [265, 827], [266, 838], [267,
   [272, 931], [273, 947], [274, 963], [275, 976], [276, 988], [277, 998], [278, 1006], [279, 1013], [280, 1018], [281, 1021],
   [282, 1024], [283, 1025], [284, 1025], [285, 1023], [286, 1021], [287, 1017], [288, 1012], [289, 1005], [290, 997], [291, 986],
   [292, 972], [293, 955], [294, 935], [295, 912]].map(([f, v]) => [f, v, L]);
-// typing events: [frame, text appended]
 // content scale / x-shift inside the closing window
 const CSCALE = [[240, 1], [244, 0.987, L], [246, 0.98, L], [248, 0.97, L], [249, 0.92, L], [250, 0.84, L], [251, 0.76, L], [252, 0.68, L],
   [254, 0.52, L], [256, 0.38, L], [258, 0.28, L], [262, 0.15, L]];
@@ -41,6 +40,7 @@ const CSHIFT = [[240, 0], [244, -16, L], [246, -35, L], [248, -57, L], [249, -20
 // doc-space ink boxes of the typed glyphs (spaces excluded), measured in the reference
 const REF_GLYPHS = { 0: [98, 266], 1: [296, 433], 5: [884, 1023], 6: [1057, 1192], 7: [1216, 1299], 8: [1401, 1431], 9: [1456, 1540],
   13: [2240, 2422], 14: [2449, 2608], 15: [2632, 2732], 16: [2751, 2852], 17: [2874, 3043], 18: [3072, 3231] };
+// typing events: [frame, text appended, bold?]
 const TYPED = [[250, 'B'], [251, 'u'], [252, 't'], [254, ','], [255, 'w'], [257, 'h'], [259, 'a'], [260, 't'], [263, ' i'], [265, 'f'],
   [269, ' o'], [270, 'n'], [272, 'e'], [275, ' B', 1], [276, 'u', 1], [278, 't', 1], [281, 't', 1], [284, 'o', 1], [290, 'n', 1]];
 
@@ -57,13 +57,11 @@ export default function create(stage) {
   const typeLayer = el('div', { cls: 'fill' }, root);
   const typeBlur = makeAxisBlur();
   const chars = [];
-  let doc = '';
   for (const [f, t, bold] of TYPED) {
     for (const ch of t) {
       const font = bold ? TYPE_BOLD : TYPE_FONT;
       const n = el('div', { text: ch, style: { position: 'absolute', left: '0', top: '0', font, lineHeight: '1', color: '#080808', whiteSpace: 'pre', transformOrigin: '0 0' } }, typeLayer);
       chars.push({ f, ch, font, n, x: 0 });
-      doc += ch;
     }
   }
 

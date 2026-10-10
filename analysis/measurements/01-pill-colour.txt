@@ -1,0 +1,5 @@
+# $ python3 tools/sample_colors.py 52 736,388,1 862,370,1 800,365,1
+# used in: composition/scenes/01-intro.js pill fade-in (colour ramps 49..55)
+736,388  #487b96  rgb(72,123,150)
+862,370  #427499  rgb(65,115,153)
+800,365  #3f7894  rgb(62,119,148)

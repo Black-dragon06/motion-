@@ -1,0 +1,10 @@
+# $ bash -c for p in 145:1b284a 150:ebecdc 156:eceffe 162:1c1c1c 174:9de424 186:423956 202:d17159 208:d7c8ab; do n=${p%%:*}; c=${p##*:}; python3 tools/segments.py --from $n --box 330,285,955,440 --mode notcolor --color "#$c" --tol 70 --gap 9; done
+# used in: composition/scenes/03-montage.js textL/textR of every label (ink left/right), baseline 384
+145 cols [(370, 424), (434, 711), (733, 909)]  rows [(315, 402)]
+150 cols [(370, 423), (434, 529), (539, 710), (733, 922)]  rows [(318, 402)]
+156 cols [(383, 600), (625, 818), (828, 885)]  rows [(314, 393)]
+162 cols [(357, 541), (567, 935)]  rows [(318, 399)]
+174 cols [(392, 577), (602, 694), (704, 900)]  rows [(320, 399)]
+186 cols [(450, 525), (538, 622), (632, 741), (765, 836)]  rows [(318, 405)]
+202 cols [(368, 455), (469, 619), (641, 921)]  rows [(314, 402)]
+208 cols [(371, 423), (435, 529), (539, 711), (734, 909)]  rows [(316, 401)]
